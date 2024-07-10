@@ -1,0 +1,11 @@
+#firstParagraph {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.secondImportant {
+    color: darkgoldenrod;
+    font-display: block;
+    font-style: italic;
+    text-align: right;
+}
